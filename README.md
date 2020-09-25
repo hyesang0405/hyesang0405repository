@@ -10,4 +10,4 @@ Hello My name is hyesang
    <img "src="./3주차 과제.PNG"></img>
    
 ## 4주차 과제 
-   <img "src="/Add files via upload/4주차 과제.PNG"></img>
+   <img "src="./Add files via upload/4주차 과제.PNG"></img>
