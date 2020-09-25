@@ -7,4 +7,4 @@ Hello My name is hyesang
 
 
 ## 3주차 과제
-   <img "src="./Add files via upload/3주차 과제."></img>
+   <img "src="./3주차 과제."></img>
