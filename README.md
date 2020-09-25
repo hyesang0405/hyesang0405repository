@@ -7,4 +7,4 @@ Hello My name is hyesang
 
 
 ## 3주차 과제
-   <img "src="./png/3주차.png"></img>
+   <img "src="./png/캡스톤 3주차.png"></img>
